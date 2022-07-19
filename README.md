@@ -33,4 +33,8 @@ My name is Cynthia Saturnino dos Santos and I received this challenge link from 
         	,primary key (yearmonth, uf, product)
         );
 
-* Place the scripts "data-engineering-test.py" and "data-engineering-test.py" in the same folder
+* Place the scripts "data-engineering-test.py" and "data-engineering-test-SCHEDULE.ipynb" in the same folder
+
+### Execution
+
+* Execute the "data-engineering-test-SCHEDULE.ipynb" statements to schedule program "data-engineering-test.py"
