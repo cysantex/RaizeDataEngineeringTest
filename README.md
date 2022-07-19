@@ -32,3 +32,5 @@ My name is Cynthia Saturnino dos Santos and I received this challenge link from 
         	,created_at datetime
         	,primary key (yearmonth, uf, product)
         );
+
+* Place the scripts "data-engineering-test.py" and "data-engineering-test.py" in the same folder
